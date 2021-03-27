@@ -21,5 +21,10 @@
 
     </section>
 </body>
+<?php
 
+echo $test
+
+
+?>
 </html>
